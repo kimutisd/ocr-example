@@ -1,0 +1,18 @@
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\Ocr-Example.exe.config
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\x64\liblept172.dll
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\x64\libtesseract304.dll
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\x86\liblept172.dll
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\x86\libtesseract304.dll
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\Ocr-Example.exe
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\Ocr-Example.pdb
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\Tesseract.dll
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\bin\Debug\Tesseract.xml
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr_Example.Form1.resources
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr_Example.Properties.Resources.resources
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr-Example.csproj.GenerateResource.Cache
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr-Example.exe
+c:\users\donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr-Example.pdb
+C:\Users\Donatas\documents\visual studio 2015\Projects\Ocr-Example\Ocr-Example\obj\Debug\Ocr-Example.csprojResolveAssemblyReference.cache
+C:\Users\Donatas\Source\Repos\ocr-example\Ocr-Example\bin\Debug\Ocr-Example.exe.config
+C:\Users\Donatas\Source\Repos\ocr-example\Ocr-Example\obj\Debug\Ocr-Example.exe
+C:\Users\Donatas\Source\Repos\ocr-example\Ocr-Example\obj\Debug\Ocr-Example.pdb
